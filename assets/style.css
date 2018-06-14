@@ -1,0 +1,38 @@
+*{
+  font-family: 'Playfair Display', serif;
+  margin: 0px;
+}
+div.navbar-collapse{
+  color: #d9534f;
+}
+
+div.navbar-header{
+  color: #d9534f;
+}
+
+.navbar-nav{
+ color: #d9534f;
+}
+
+.searchButton{
+  background-color: #911938;
+  color: #fffafa;
+}
+
+.row{
+  text-align: center;
+  background-color:#911938;
+  color: #fffafa;
+  padding: 10px;
+ }
+
+ h2.subtitle{
+  color: #fffafa;
+ }
+
+ .post-date{
+   background-color: #f4f4f4;
+   padding: 4px;
+   margin: 3px 0px;
+   display: block;
+ }
