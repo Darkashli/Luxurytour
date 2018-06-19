@@ -20,7 +20,7 @@
 
     <div class="collapse navbar-collapse">
       <ul class="nav navbar-nav ">
-        <li ><a href="<?php echo base_url(); ?>">Home <span class="sr-only">(current)</span></a></li>
+        <li><a href="<?php echo base_url(); ?>">Home <span class="sr-only">(current)</span></a></li>
         <li><a href="<?php echo base_url(); ?>event">Events</a></li>
         <li><a href="<?php echo base_url(); ?>about">About</a></li>
       </ul>
